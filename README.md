@@ -16,8 +16,3 @@ Plagiarism detector for COSC 320 group project made in Python.  <img src="https:
 |     X    | ~~2~~                 | ~~March 12~~ |
 |     X     |~~3~~                 | ~~March 26~~ |
 |          | 4                 | April 9  |
-
-
-## Python Setup
-
-## Dataset 
