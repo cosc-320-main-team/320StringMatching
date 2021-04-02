@@ -4,7 +4,7 @@ Plagiarism detector for COSC 320 group project made in Python.  <img src="https:
 
 ## Table of Contents 
   - [Project Schedule](#due-dates)
-  - [Project Milestones](https://github.com/cosc-320-main-team/320StringMatching/tree/main/documentation/proposals)
+  - [Project Milestones](https://github.com/cosc-320-main-team/320StringMatching/tree/main/documentation/milestones)
   - [Pseudocode](https://github.com/cosc-320-main-team/320StringMatching/tree/main/documentation/pseudocode)
 
 
